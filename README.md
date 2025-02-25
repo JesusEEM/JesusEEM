@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @JesusEEM
-- 👀 I’m interested in: Web developer, apps, renewable energy, electronic and robots.
-- 🌱 I’m currently learning: Electronic Engineering in Instituto Tecnologico de Merida, Platzi Student.
+# 👋 Hi, I'm Jesús Escalante.
 
+📡 I am an Electronics Engineer from Instituto Tecnológico de Merida.
+I'm 24 and currently work in Laboratorio Labinco from 6 years ago, I am dedicated to managing Excel to create laboratory reports, billing records, and income analysis.
+I do administrative and auxiliary work.
+
+---
+  
+- 🔎 I’m interested in: Web developer, apps, renewable energy, electronic and robots.
+- 💻 I’m currently learning web developer as HTML, CSS Javascript and React at Platzi.
 <!---
 - 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me ...
